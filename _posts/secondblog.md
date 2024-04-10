@@ -1,92 +1,32 @@
 ---
-date: '2022-07-08T11:50:54.000Z'
-title: Second Blog
-tagline: This is a Tagline If you want to add.
+date: '2024-04-10T11:50:54.000Z'
+title: My Exemplary Academic Works
+tagline: The top one is expectedly my thesis.
 preview: >-
-  Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-  when an unknown printer took a galley of type and scrambled it to make a type
-  specimen book.
+  By far, what I would call my most exemplary academic work, my magnum opus,
+  would be my thesis, considering that I did most of the work in terms of
+  development, and my team members can attest to that.
 image: >-
-  https://images.unsplash.com/photo-1656427868828-79a829b92b2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80
+  https://cdn.discordapp.com/attachments/1063633192529166358/1159730989711507506/givemore-high-resolution-color-logo.png?ex=662207a6&is=660f92a6&hm=dd600c04f342e51a628eb3135c27a957b41ecbc7dfcaf4ae23b85922d5aa2eea&
 ---
 
-# Heading One
+# My Exemplary Academic Works
 
-**Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+I'd rather make this part as concise as possible.
 
-## This is Heading Two
+## GiveMore: My final capstone project
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+GiveMore is more than just a capstone project for me. This is my final work of development in Benilde, and I rightfully consider it as my magnum opus, despite it's flaws. GiveMore is a platform-as-a-Service system that serves as an online donation platform and record-keeping solution for charitable organizations. With a donor side and a charity side, the system offers a user-friendly interface for both donors and charity workers. Donors can access features such as donation forms and transparency-related functions, including viewing reports of donation statistics and details about past projects. It also includes a dashboard for the donors wherein they can access features for record-keeping and transparency. I can keep describing it here, but I feel like it would be much easier and exciting if you just [see for yourself](https://isproj2.vercel.app). I served as a full-stack developer of this project, and due reasons that I shall not disclose. ended up doing 65-75% of the actual development work. Thankfully, my team and I pulled it off, and we were even delighted to find out that we were eligible for a best capstone award (because there's only 1 other competitor), which this project has won.
 
-### This is Heading Three with `inline code`
+### Flappy Box
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+My final project for our Fundamentals of Programming (FUNPROG) subject during my first year of college. Essentially a flappy bird rip-off that substitutes sprites and assets with drawn objects. Affectionately called "Flappy Box". This is the first and only game of my making. For now, at least. That depends on whether or not I pursue game design post-graduation. I don't know how to deploy windows forms apps so [just clone it](https://github.com/gerardgabrielparinas/FUNPROG_FINALS)?
 
-#### This is Heading Four With Code Block
+### MOBDEVT Quiz App
 
-```
-
-# Auto-generated based on the server's hostname.
-# Set this to the URL used to access the Firezone Web UI.
-default['firezone']['external_url'] = 'https://firezone.example.com'
-
-# Specify the path to your SSL cert and private key.
-# If set to nil (default), a self-signed cert will be generated for you.
-default['firezone']['ssl']['certificate'] = '/path/to/cert.pem'
-default['firezone']['ssl']['certificate_key'] = '/path/to/key.pem'
-
-```
-
-##### Heading Five Code With Max Height
-
-```
-
-# Auto-generated based on the server's hostname.
-# Set this to the URL used to access the Firezone Web UI.
-default['firezone']['external_url'] = 'https://firezone.example.com'
-
-# Specify the path to your SSL cert and private key.
-# If set to nil (default), a self-signed cert will be generated for you.
-default['firezone']['ssl']['certificate'] = '/path/to/cert.pem'
-default['firezone']['ssl']['certificate_key'] = '/path/to/key.pem'
-
-# Auto-generated based on the server's hostname.
-# Set this to the URL used to access the Firezone Web UI.
-default['firezone']['external_url'] = 'https://firezone.example.com'
-
-# Specify the path to your SSL cert and private key.
-# If set to nil (default), a self-signed cert will be generated for you.
-default['firezone']['ssl']['certificate'] = '/path/to/cert.pem'
-default['firezone']['ssl']['certificate_key'] = '/path/to/key.pem'
-
-```
-
-## BLockquote
-
-> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-
-## Ordered List with horizontal line
-
-1. First item
-2. Second item
-3. Third item
-4. Fourth item
+A quiz app for our final output in our MOBDEVT class. [Here's the repository](https://github.com/gerardgabrielparinas/MOBDEVT_FINALS).
 
 ---
-
-## Unordered List With Horizontal line
-
-- First item
-- Second item
-- Third item
-- Fourth item
-
----
-
-## Links
-
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 
 ## Images
 
