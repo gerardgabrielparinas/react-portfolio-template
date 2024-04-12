@@ -1,93 +1,42 @@
 ---
-date: "2022-07-08T11:50:54.000Z"
-title: Three Blog
-tagline: This is a Tagline If you want to add.
+date: '2024-04-12T11:50:54.000Z'
+title: 'College Life: My Thoughts'
+tagline: ''
 preview: >-
-  Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-  when an unknown printer took a galley of type and scrambled it to make a type
-  specimen book.
+  College life for me was, as expected, really not easy. It had it's highs and
+  lows. However, I am confident in saying that I learned a lot from my stay in
+  Benilde as an Information Systems student, and it has motivated me to better
+  myself and become an achiever.
 image: >-
-  https://images.unsplash.com/photo-1640017955477-75b58521007d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80
+  https://cdn.discordapp.com/attachments/1192373420067922010/1228323794658005022/IMG_1261.jpg?ex=662ba0ad&is=66192bad&hm=1b10c38d84869af772e675ec2f99a8a0b0f730f98899f21e05a6c24add5cef3e&
 ---
 
-# Heading One
+#My thoughts on college life
 
-**Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+## Lessons Learned
 
-## This is Heading Two
+To start this off, college has done to me what all my years of highschool had never done before - it pushed me to become an achiever. I'm currently a scholar, and it would've been sufficient to just get a bare minimum of 80% for all my subjects to maintain my scholarship, and then call it a day. That was exactly what I was supposed to do. But then I ended up doing the complete opposite. It's as if something inside of me was urging me to be better, to be an achiever for once in my life. And so I did. I worked hard, and I must say, the payoff is nice. For one, my group's thesis won the best capstone award, I managed to maintain my scholarship for the entirety of my college, I actually ***somehow*** survived being a student leader, and to top it all off, if this practicum goes well, I might be eligible to become a *cum laude*, and this brings me to one of the greatest lessons college has taught me - the importance of **diligence**. Interestingly enough, this ties into another great lesson taught to me in college, which was the importance of first learning how to be a good servant before you can be a good leader, which I had learned admittedly through the hard way, thanks to my years of participation in a student organization, which connects to lesson number three - **accountability**, and for this lesson, it makes itself very apparent during the thesis phase, and the OJT phase. Speaking of OJTs, although I won't go into too much detail, I cannot however, forget to mention all the technical skills that my program has taught me, for it is through those skills that I am finally getting closer and closer into being the fullstack developer that I aspire to be.
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+## Career Goals
 
-### This is Heading Three with `inline code`
+The **me** from several months ago would've instantly answered with "I wanna be a QA tester!" or "I'm not quite sure yet..." when asked about his career goals. But that was before I discovered my passion for development, both through my capstone project, and later on, my experience with my OJT. As for my current career goals, it's my plan to continue working at Gallium31, hopefully being absorbed soon, and from there, it's just a matter of gaining experience. I have to admit, I haven't thought THAT far ahead, but I'd say that 5 years' worth of future career goals is more than enough for someone who hasn't even gotten their toga measurements taken yet.
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+## As a Developer
 
-#### This is Heading Four With Code Block
+As a developer, I am dedicated to honing and perfecting my craft. To always improve my abilities, I am to remain up to speed on the newest software development technologies and processes. I will approach each assignment with a strong desire to solve problems, pay close attention to detail, and be innovative. I am committed to producing code that is clean, efficient, and maintainable while meeting the highest quality requirements. I plan to aggressively seek input from peers and mentors in order to learn and progress professionally. Furthermore, I am devoted to working successfully with team members, speaking openly, and providing solutions that surpass expectations. I hope to make a significant contribution to the field of software development by committing to excellence and continual progress.
 
-```
+As for what I plan to do after graduation... well, here's my list so far:
 
-# Auto-generated based on the server's hostname.
-# Set this to the URL used to access the Firezone Web UI.
-default['firezone']['external_url'] = 'https://firezone.example.com'
+## My plans moving forward
 
-# Specify the path to your SSL cert and private key.
-# If set to nil (default), a self-signed cert will be generated for you.
-default['firezone']['ssl']['certificate'] = '/path/to/cert.pem'
-default['firezone']['ssl']['certificate_key'] = '/path/to/key.pem'
-
-```
-
-##### Heading Five Code With Max Height
-
-```
-
-# Auto-generated based on the server's hostname.
-# Set this to the URL used to access the Firezone Web UI.
-default['firezone']['external_url'] = 'https://firezone.example.com'
-
-# Specify the path to your SSL cert and private key.
-# If set to nil (default), a self-signed cert will be generated for you.
-default['firezone']['ssl']['certificate'] = '/path/to/cert.pem'
-default['firezone']['ssl']['certificate_key'] = '/path/to/key.pem'
-
-# Auto-generated based on the server's hostname.
-# Set this to the URL used to access the Firezone Web UI.
-default['firezone']['external_url'] = 'https://firezone.example.com'
-
-# Specify the path to your SSL cert and private key.
-# If set to nil (default), a self-signed cert will be generated for you.
-default['firezone']['ssl']['certificate'] = '/path/to/cert.pem'
-default['firezone']['ssl']['certificate_key'] = '/path/to/key.pem'
-
-```
-
-## BLockquote
-
-> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-
-## Ordered List with horizontal line
-
-1. First item
-2. Second item
-3. Third item
-4. Fourth item
+1. Continue working at Gallium31 until my current project is finished
+2. Take a several months-long vacation after finishing the project
+3. Travel. Habang di pa busy
+4. Once I get bored of not being plagued with stress, I'll open my own bank account
+5. Take care of all the relevant Government IDs and such
+6. Approach Sir Catayoc or Miss Cathie regarding the HiFi incubation of my capstone project
+7. Go back to working for Gallium31
+8. Refine my capstone project under the mentorship of HiFi (hopefully)
+9. Enjoy life
 
 ---
-
-## Unordered List With Horizontal line
-
-- First item
-- Second item
-- Third item
-- Fourth item
-
----
-
-## Links
-
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
-
-## Images
-
-![An old rock in the desert](https://images.unsplash.com/photo-1654475677192-2d869348bb4c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)

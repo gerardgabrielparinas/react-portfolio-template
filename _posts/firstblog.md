@@ -38,36 +38,4 @@ This was the very first assignment that we had been given. Literally the day aft
 
 ![Docker Desktop](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/481444iB47241D48BD5581C/image-size/large?v=v2&px=999)
 
-#### This is Heading Four With Code Block
-
-```jsx
-<code className={className} {...props}>
-  {children}
-</code>
-```
-
-## BLockquote
-
-> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-
-## Ordered List with horizontal line
-
-1. First item
-2. Second item
-3. Third item
-4. Fourth item
-
 ---
-
-## Unordered List With Horizontal line
-
-- First item
-- Second item
-- Third item
-- Fourth item
-
----
-
-## Links
-
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
